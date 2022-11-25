@@ -1,6 +1,6 @@
 # site de receitas Fruta & Fruto
 
-Irei desenvolver um site de receitas chamado Fruta & Fruto, incluindo :
+O projeto é para desenvolver um site de receitas chamado Fruta & Fruto, incluindo :
 
 <p>cabeçalho;
 banner;
